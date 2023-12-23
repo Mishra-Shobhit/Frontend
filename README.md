@@ -1,2 +1,2 @@
 # Frontend
-this is my Git repositary
+this is my first Git repositary.
